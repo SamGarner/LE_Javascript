@@ -1,0 +1,1 @@
+This is a sample NPM module for a palindrome test.
