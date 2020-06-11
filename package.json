@@ -1,6 +1,6 @@
 {
   "name": "sam-palindrome",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "description": "Palindrome detector",
   "main": "index.js",
   "scripts": {
