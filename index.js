@@ -25,7 +25,7 @@ function Phrase(content) {
 	// Returns the letters in the content.
 	// e.g. "Hello, world!" > "Helloworld"
 	this.letters = function letters() {
-		return (this.content.match(/[a-z]/gi) || []).join("");
+		return (this.content.match(/[a-z]/gi) || [] ).join("");
 		//Array.from(this.content).filter(c => c.match(/[a-z]/i)).join("");
 	}
 			// this.letters = function letters() {
